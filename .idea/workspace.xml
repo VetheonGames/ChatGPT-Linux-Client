@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7345488-a415-44f0-8526-4818fda4bb1a" name="Changes" comment="Commit all the things">
-      <change afterPath="$PROJECT_DIR$/configchecker.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.rb" beforeDir="false" afterPath="$PROJECT_DIR$/client.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configmanager.rb" beforeDir="false" afterPath="$PROJECT_DIR$/configmanager.rb" afterDir="false" />
+    <list default="true" id="b7345488-a415-44f0-8526-4818fda4bb1a" name="Changes" comment="fix string literal offenses">
+      <change beforePath="$PROJECT_DIR$/configchecker.rb" beforeDir="false" afterPath="$PROJECT_DIR$/configchecker.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674683571848</updated>
-      <workItem from="1674683572973" duration="6313000" />
+      <workItem from="1674683572973" duration="7130000" />
     </task>
     <task id="LOCAL-00001" summary="Commit all the things">
       <created>1674686704662</created>
@@ -81,7 +78,42 @@
       <option name="project" value="LOCAL" />
       <updated>1674686721375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bring workspace up-to-date for Michael">
+      <created>1674692208694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674692208694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add some methods for validating the config before we pass it's contents to the server">
+      <created>1674692238479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674692238479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create a checker to see if the config exists, and create one with default settings if it doesn't">
+      <created>1674692261576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674692261576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="implement the configmanager and configchecker">
+      <created>1674692288530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674692288530</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix string literal offenses">
+      <created>1674695858610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674695858610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +122,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit all the things" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit all the things" />
+    <MESSAGE value="Bring workspace up-to-date for Michael" />
+    <MESSAGE value="Add some methods for validating the config before we pass it's contents to the server" />
+    <MESSAGE value="create a checker to see if the config exists, and create one with default settings if it doesn't" />
+    <MESSAGE value="implement the configmanager and configchecker" />
+    <MESSAGE value="fix string literal offenses" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix string literal offenses" />
   </component>
 </project>

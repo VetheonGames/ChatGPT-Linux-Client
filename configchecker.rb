@@ -13,7 +13,7 @@ class ConfigChecker
         "ip": '0.0.0.0',
         "port": '4567'
       },
-      "api_key":'API_KEY'
+      "api_key": 'API_KEY'
     }.to_json
   end
 end
